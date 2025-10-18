@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🏪✨ Antoneth ✨🏪
-### Sistema de Gestión para Librería Antoneth
+# 🏪✨SISTEMA DE GESTION DE PRODUCTOS ✨🏪
+### Sistema de Gestión de Productos desarrollados con Java y MySQL para optimizar el manejo y control de inventario en la Librería "Antoneth" de Satelite Norte en el municipio de Warnes.
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
